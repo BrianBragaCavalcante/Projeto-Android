@@ -93,6 +93,10 @@ nav > a:hover {
     color: var(--color5);
 }
 
+#fale_conosco {
+    transition-duration: 0.5s;
+}
+
 
 /* Main */
 main {
