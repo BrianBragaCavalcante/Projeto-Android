@@ -64,8 +64,8 @@ header p {
     font-size: 1.2em;
 
     max-width: 600px;
-    padding: 0px 10px;
-    margin: 0px auto 20px;
+    padding: 0px 10px 30px;
+    margin: auto;
 }
 
 
